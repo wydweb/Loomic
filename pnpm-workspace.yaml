@@ -5,8 +5,8 @@ packages:
 ignoredBuiltDependencies:
   - '@biomejs/biome'
   - msw
-  - protobufjs
 
 onlyBuiltDependencies:
   - esbuild
   - sharp
+  - protobufjs
