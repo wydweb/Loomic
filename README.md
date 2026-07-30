@@ -256,7 +256,7 @@ Open http://localhost:3000 and start creating!
 # Environment Variables: NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY, NEXT_PUBLIC_SERVER_BASE_URL
 ```
 
-### Backend → Railway
+### Backend → Railway(实际用Render)
 
 The backend runs as two services from a single Docker image, differentiated by `SERVICE_MODE`:
 
